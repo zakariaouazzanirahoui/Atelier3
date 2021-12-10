@@ -104,4 +104,3 @@ int main() {
 	(v1.normaxR(v2)).afficher();
 	cout<<endl;
 }
-//Source : www.exelib.net
